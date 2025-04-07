@@ -1,6 +1,6 @@
 # Shiny-App-Toxicology
 
-1. This web app uses the database file called Database_Toxicology_Own.db
+1. This web app uses the database file called Database_Toxicology_Own.db. All the needed data to run the app is already in this database.
 
 2. This app has been created in R Studio with version R 4.4.3 and you will need either this R version or a more recent one.
 
