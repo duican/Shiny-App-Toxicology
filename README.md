@@ -12,10 +12,12 @@ Literature Sources:
 K. Lenz, P. J. Boogaard, H. B. Ketelslegers, T. W. Gant, and et al., “Grouping
 of uvcb substances with new approach methodologies (nams) data,” ALTEX -
 Alternatives to animal experimentation, vol. 38, p. 123–137, Jan. 2021.
+
 [2] F. Sewell, C. Alexander-White, S. Brescia, R. A. Currie, R. Roberts, C. Roper,
 C. Vickers, C. Westmoreland, and I. Kimber, “New approach methodologies
 (nams): identifying and overcoming hurdles to accelerated adoption,” Toxicol-
 ogy Research, vol. 13, p. tfae044, 03 2024.
+
 [3] J. F. Fleming, D. L. Filer, D. T. Lloyd, P. Thunga, S. W. Marvel, A. A.
 Motsinger-Reif, and D. M. Reif, “toxpir: Create toxpi prioritization mod-
 els,” 2024d. R package, version 1.3.0, https://cran.r-project.org/web/
