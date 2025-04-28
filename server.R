@@ -184,12 +184,12 @@ shinyServer(function(input, output, session){
     #print(data_frameworkPCA)
     #scale data and apply function prcomp for PCA
     pca_results_1<- prcomp(data_frameworkPCA, scale. = TRUE)
-    #calculate eigenvalues
-    eigenvalues <- pca_results_1$sdev*pca_results_1$sdev
-    eigenvalues
-    #calculate eigenvectors
-    eigenvectors <-pca_results_1$rotation
-    eigenvectors
+    #calculate toxi_eigenvalues
+    toxi_eigenva <- pca_results_1$sdev*pca_results_1$sdev
+    toxi_eigenva
+    #calculate toxi_eigenvectors
+    toxi_eigenvc <-pca_results_1$rotation
+    toxi_eigenvc
     #plot PCA in different ways
     #autoplot(pca_results_1)
     #autoplot(pca_results_1, data = data_complete_PCA , colour = 'Class', loadings = TRUE)
