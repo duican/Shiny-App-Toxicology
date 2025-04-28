@@ -198,16 +198,12 @@ accessed on 2024-11-21.
 tials,” 2017. https://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/.
 
 [50] “R shiny tutorial — r shiny dashboard —enabling menu items for their re-
-spective pages — r programming.” Data Science Tutorial, 2017. https:
-//www.youtube.com/watch?v=fUXBL5bk20M.
+spective pages — r programming.” Data Science Tutorial, 2017. https://www.youtube.com/watch?v=fUXBL5bk20M.
 
 [51] “Shiny web app tutorial — how to upload a file in shiny app — r programming
-tutorial.” Data Science Tutorial, 2020. https://www.youtube.com/watch?v=
-A6VYSCB0TZM&t=199s.
+tutorial.” Data Science Tutorial, 2020. https://www.youtube.com/watch?v=A6VYSCB0TZM&t=199s.
 
-[52] “R shiny basics and user interface.” Statistical Learning Group, 2020. https:
-//www.youtube.com/watch?v=6mJaw5pLtso.
+[52] “R shiny basics and user interface.” Statistical Learning Group, 2020. https://www.youtube.com/watch?v=6mJaw5pLtso.
 
 [53] Y. Dai and Y. Xiang, “Connecting sqlite database and shiny app for
-business intelligence,” 2020. https://shanghai.hosting.nyu.edu/data/r/
-case-3-sql-shiny.html, accessed on 2024-11-21.
+business intelligence,” 2020. https://shanghai.hosting.nyu.edu/data/r/case-3-sql-shiny.html, accessed on 2024-11-21.
