@@ -154,7 +154,7 @@ Multivariate Data Analyses, 2020. R version 1.0.7, https://cran.r-project.org/we
 
 [37] D. Jurafsky and J. H. Martin, Speech and Language Processing: An Introduc-
 tion to Natural Language Processing, Computational Linguistics, and Speech
-Recognition with Language Models. published at: https://web.stanford.edu/jurafsky/slp3/, 3rd ed., 2025. Online manuscript released January 12, 2025.
+Recognition with Language Models. published at: https://web.stanford.edu/~jurafsky/slp3/, 3rd ed., 2025. Online manuscript released January 12, 2025.
 
 [38] B. Ripley, B. Venables, D. M. Bates, K. Hornik, A. Gebhardt, and
 D. Firth, MASS: Support Functions and Datasets for Venables and Ripley’s
