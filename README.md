@@ -158,56 +158,44 @@ Recognition with Language Models. published at: https://web.stanford.edu/~jurafs
 
 [38] B. Ripley, B. Venables, D. M. Bates, K. Hornik, A. Gebhardt, and
 D. Firth, MASS: Support Functions and Datasets for Venables and Ripley’s
-MASS, 2025. R package version 7.3-64. https://cran.r-project.org/web/
-packages/MASS/index.html.
+MASS, 2025. R package version 7.3-64. https://cran.r-project.org/web/packages/MASS/index.html.
 
 [39] B. Ripley, B. Venables, D. M. Bates, K. Hornik, A. Gebhardt, and D. Firth,
 “Mass: Support functions and datasets for venables and ripley’s mass,” 2025. R
-package, version 7.3-64, https://cran.r-project.org/web/packages/MASS/
-index.html.
+package, version 7.3-64, https://cran.r-project.org/web/packages/MASS/index.html.
 
 [40] H. Wickham, W. Chang, L. Henry, T. L. Pedersen, K. Takahashi, C. Wilke,
 K. Woo, H. Yutani, D. Dunnington, and T. van den Brand, ggplot2: Create
 Elegant Data Visualisations Using the Grammar of Graphics, 2024. R pack-
-age version 3.5.1, https://cran.r-project.org/web/packages/ggplot2/
-index.html.
+age version 3.5.1, https://cran.r-project.org/web/packages/ggplot2/index.html.
 
 [41] Y. Xie, J. Cheng, X. Tan, J. Allaire, M. Girlich, G. F. Ellis, J. Rauh, S. Lim-
 ited, B. Reavis, L. Gersen, B. Szopka, A. Pickering, W. Holmes, M. Marttila,
 A. Quintero, and S. Laurent, DT: A Wrapper of the JavaScript Library ’DataT-
-ables’, 2024. R version 0.33, https://cran.r-project.org/web/packages/
-DT/index.html.
+ables’, 2024. R version 0.33, https://cran.r-project.org/web/packages/DT/index.html.
 
 [42] B. Auguie and A. Antonov, gridExtra: Miscellaneous Functions for ”Grid”
-Graphics, 2017. R package version 2.3, https://cran.r-project.org/web/
-packages/gridExtra/index.html.
+Graphics, 2017. R package version 2.3, https://cran.r-project.org/web/packages/gridExtra/index.html.
 
-[43] S. Marvel and D. M. Reif, “Toxpi™ user manual v2.3,” 2018. https://toxpi.
-org/dist/ToxPi%20User%20Manual.pdf, accessed on 2024-11-21.
+[43] S. Marvel and D. M. Reif, “Toxpi™ user manual v2.3,” 2018. https://toxpi.org/dist/ToxPi%20User%20Manual.pdf, accessed on 2024-11-21.
 
 [44] J. Fleming, D. Filer, D. Lloyd, P. Thunga, S. W. Marvel, A. A. Motsinger-Reif,
-and D. M. Reif, “Manual package ‘toxpir’,” 2024c. https://cran.r-project.
-org/web/packages/toxpiR/toxpiR.pdf, accessed on 2024-11-21.
+and D. M. Reif, “Manual package ‘toxpir’,” 2024c. https://cran.r-project.org/web/packages/toxpiR/toxpiR.pdf, accessed on 2024-11-21.
 
 [45] A. Kassambara and F. Mundt, “factoextra : Extract and visualize the results
-of multivariate data analysesg,” 2020. https://cran.r-project.org/web/
-packages/factoextra/readme/README.html.
+of multivariate data analysesg,” 2020. https://cran.r-project.org/web/packages/factoextra/readme/README.html.
 
 [46] J. R. Groff, P. N. Weinberg, and A. J. Oppel, SQL: The Complete Reference,
 Third Edition. McGraw-Hill, 2010.
 
 [47] S. Parth, “Understanding k-means and hierarchical clus-
-tering in r,” 2020. https://medium.com/@shreytparth/
-understanding-k-means-and-hierarchical-clustering-in-r-9899342cc4fb,
+tering in r,” 2020. https://medium.com/@shreytparth/understanding-k-means-and-hierarchical-clustering-in-r-9899342cc4fb,
 accessed on 2024-11-21.
 
-[48] Z. Keita, “Introduction to principal component analysis (pca),” 2023. https:
-//www.datacamp.com/tutorial/pca-analysis-r.
+[48] Z. Keita, “Introduction to principal component analysis (pca),” 2023. https://www.datacamp.com/tutorial/pca-analysis-r.
 
 [49] A. Kassambara, “Pca - principal component analysis essen-
-tials,” 2017. https://www.sthda.com/english/articles/
-31-principal-component-methods-in-r-practical-guide/
-112-pca-principal-component-analysis-essentials/.
+tials,” 2017. https://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/.
 
 [50] “R shiny tutorial — r shiny dashboard —enabling menu items for their re-
 spective pages — r programming.” Data Science Tutorial, 2017. https:
