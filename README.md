@@ -20,8 +20,7 @@ ogy Research, vol. 13, p. tfae044, 03 2024.
 
 [3] J. F. Fleming, D. L. Filer, D. T. Lloyd, P. Thunga, S. W. Marvel, A. A.
 Motsinger-Reif, and D. M. Reif, “toxpir: Create toxpi prioritization mod-
-els,” 2024d. R package, version 1.3.0, https://cran.r-project.org/web/
-packages/toxpiR/index.html.
+els,” 2024d. R package, version 1.3.0, https://cran.r-project.org/web/packages/toxpiR/index.html.
 
 [4] N. Kleinstreuer and T. Hartung, “Artificial intelligence (ai)—it’s the end of
 the tox as we know it (and i feel fine),” Archives of Toxicology, vol. 98, no. 3,
@@ -68,8 +67,7 @@ health perspectives, vol. 118, no. 12, pp. 1714–1720, 2010.
 
 [13] “Appendix c toxicological priority index (toxpi).” National Research Council.
 A Framework to Guide Selection of Chemical Alternatives. Washington, DC:
-The National Academies Press, 2014. https://nap.nationalacademies.org/
-read/18872/chapter/19, accessed on 2025-04-23.
+The National Academies Press, 2014. https://nap.nationalacademies.org/read/18872/chapter/19, accessed on 2025-04-23.
 
 [14] J. Fleming, D. Filer, D. Lloyd, P. Thunga, S. W. Marvel, A. A. Motsinger-
 Reif, and D. M. Reif, “Toxpi r introduction,” 2024b. https://cran.rstudio.com/web/packages/toxpiR/vignettes/introduction.html#:~:text=What%20is%20ToxPi%3F,i.e.%20multimodal%20or%20multiscale%20information, accessed on 2024-11-21.
@@ -92,8 +90,7 @@ present, and future,” Multimedia Tools and Applications, vol. 80, pp. 8091–8
 Feb 2021.
 
 [19] “Polycyclic aromatic compounds.” National Toxicology Program, U.S. Depart-
-ment of Health and Human Services, 2014. https://ntp.niehs.nih.gov/
-whatwestudy/topics/pacs, accessed on 2024-11-21.
+ment of Health and Human Services, 2014. https://ntp.niehs.nih.gov/whatwestudy/topics/pacs, accessed on 2024-11-21.
 
 [20] O. C. Ifegwu and C. Anyakora, “Chapter six - polycyclic aromatic hydrocar-
 bons: Part i. exposure,” in Advances in Clinical Chemistry (G. S. Makowski,
@@ -106,8 +103,7 @@ T. ¨Ostreicher, Best Practice Software-Engineering. Verlag Heidelberg, 2010.
 sion 1.2.3, https://cran.r-project.org/web/packages/DBI/index.html.
 
 [23] K. M¨uller and H. Wickham, “Rsqlite: Sqlite interface for r,” 2024. R pack-
-age, version 2.3.9, https://cran.r-project.org/web/packages/RSQLite/
-index.html.
+age, version 2.3.9, https://cran.r-project.org/web/packages/RSQLite/index.html.
 
 [24] H. Wickham, J. Bryan, M. Kalicinski, K. Valery, C. Leitienne, B. Colbert,
 D. Hoerl, and E. Miller, readxl: Read Excel Files, 2025. R package version
@@ -143,26 +139,22 @@ https://cran.r-project.org/bin/windows/base/.
 
 [32] W. Chang, J. Cheng, J. Allaire, C. Sievert, B. Schloerke, Y. Xie, J. Allen,
 J. McPherson, A. Dipert, and B. Borges, “shiny: Web application framework
-for r,” 2024. R version 1.10.0, https://cran.r-project.org/web/packages/
-shiny/index.html.
+for r,” 2024. R version 1.10.0, https://cran.r-project.org/web/packages/shiny/index.html.
 
 [33] W. Chang and B. B. Ribeiro, shinydashboard: Create Dashboards with ’Shiny’,
-2021. R package version 0.7.2, https://cran.r-project.org/web/packages/
-shinydashboard/index.html.
+2021. R package version 0.7.2, https://cran.r-project.org/web/packages/shinydashboard/index.html.
 
 [34] C. M. Bishop and N. M. Nasrabadi, Pattern recognition and machine learning,
 vol. 4. Springer, 2006.
 
 [35] A. Kassambara and F. Mundt, factoextra: Extract and Visualize the Results of
-Multivariate Data Analyses, 2020. R version 1.0.7, https://cran.r-project.
-org/web/packages/factoextra/index.html.
+Multivariate Data Analyses, 2020. R version 1.0.7, https://cran.r-project.org/web/packages/factoextra/index.html.
 
 [36] M. M. Deza and E. Deza, Encyclopedia of Distances. Springer, 1st ed., 2009.
 
 [37] D. Jurafsky and J. H. Martin, Speech and Language Processing: An Introduc-
 tion to Natural Language Processing, Computational Linguistics, and Speech
-Recognition with Language Models. published at: https://web.stanford.edu/ ju-
-rafsky/slp3/, 3rd ed., 2025. Online manuscript released January 12, 2025.
+Recognition with Language Models. published at: https://web.stanford.edu/jurafsky/slp3/, 3rd ed., 2025. Online manuscript released January 12, 2025.
 
 [38] B. Ripley, B. Venables, D. M. Bates, K. Hornik, A. Gebhardt, and
 D. Firth, MASS: Support Functions and Datasets for Venables and Ripley’s
