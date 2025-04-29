@@ -58,13 +58,6 @@ shinyUI(
                    splitLayout(cellWidths = c("50%", "50%"),radioButtons("distancemethod", "Which distance method do you prefer?",
                                                                               choices = c("manhattan","euclidian", "minkowski")), radioButtons("type", "Which shape do you prefer for the chart?",
                                                                                                                                                                      choices = c("rectangle", "circular", "phylogenic")))),
-                
-                #fluidRow(column(12,selectInput("distancemethod", "Which distance method do you prefer?",
-                                               # choices = c("manhattan","euclidian", "maximum", "canberra", "minkowski")
-                                              #  ))),
-                #fluidRow(column(12,selectInput("type", "Which shape do you prefer for the chart?",
-                                              # choices = c("rectangle", "circular", "phylogenic")
-               # ))),
                 plotOutput('plot2'))
                ),
         tabItem(tabName = "toxpi", h4("Toxicity Charts"),
