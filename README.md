@@ -145,8 +145,7 @@ Multivariate Data Analyses, 2020. R version 1.0.7, https://cran.r-project.org/we
 
 [36] M. M. Deza and E. Deza, Encyclopedia of Distances. Springer, 1st ed., 2009.
 
-[37] D. Jurafsky and J. H. Martin, Speech and Language Processing: An Introduc-
-tion to Natural Language Processing, Computational Linguistics, and Speech
+[37] D. Jurafsky and J. H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech
 Recognition with Language Models. published at: https://web.stanford.edu/~jurafsky/slp3/, 3rd ed., 2025. Online manuscript released January 12, 2025.
 
 [38] M. J. Wurm, P. J. Rathouz, and B. M. Hanlon, “ordinalnet: Penalized ordinal regression,” 2022. R package version 2.12, https://cran.r-project.org/web/packages/ordinalNet/index.html.
