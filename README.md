@@ -16,7 +16,7 @@ Alternatives to animal experimentation, vol. 38, p. 123–137, Jan. 2021.
 [2] F. Sewell, C. Alexander-White, S. Brescia, R. A. Currie, R. Roberts, C. Roper,
 C. Vickers, C. Westmoreland, and I. Kimber, “New approach methodologies
 (nams): identifying and overcoming hurdles to accelerated adoption,” Toxicol-
-ogy Research, vol. 13, p. tfae044, 03 2024.
+ogy Research, vol. 13, 03 2024.
 
 [3] J. F. Fleming, D. L. Filer, D. T. Lloyd, P. Thunga, S. W. Marvel, A. A.
 Motsinger-Reif, and D. M. Reif, “toxpir: Create toxpi prioritization mod-
