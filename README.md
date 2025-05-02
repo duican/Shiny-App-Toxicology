@@ -18,8 +18,7 @@ C. Vickers, C. Westmoreland, and I. Kimber, “New approach methodologies
 (nams): identifying and overcoming hurdles to accelerated adoption,” Toxicology Research, vol. 13, 03 2024.
 
 [3] J. F. Fleming, D. L. Filer, D. T. Lloyd, P. Thunga, S. W. Marvel, A. A.
-Motsinger-Reif, and D. M. Reif, “toxpir: Create toxpi prioritization mod-
-els,” 2024d. R package, version 1.3.0, https://cran.r-project.org/web/packages/toxpiR/index.html.
+Motsinger-Reif, and D. M. Reif, “toxpir: Create toxpi prioritization models,” 2024d. R package, version 1.3.0, https://cran.r-project.org/web/packages/toxpiR/index.html.
 
 [4] N. Kleinstreuer and T. Hartung, “Artificial intelligence (ai)—it’s the end of
 the tox as we know it (and i feel fine),” Archives of Toxicology, vol. 98, no. 3,
