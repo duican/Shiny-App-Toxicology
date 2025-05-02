@@ -169,14 +169,12 @@ Recognition with Language Models. published at: https://web.stanford.edu/~jurafs
 [43] B. Auguie and A. Antonov, gridExtra: Miscellaneous Functions for ”Grid”
 Graphics, 2017. R package version 2.3, https://cran.r-project.org/web/packages/gridExtra/index.html.
 
-[44] S. Marvel and D. M. Reif, “Toxpi™ user manual v2.3,” 2018. https://toxpi.
-org/dist/ToxPi%20User%20Manual.pdf, accessed on 2024-11-21.
-[45] J. Fleming, D. Filer, D. Lloyd, P. Thunga, S. W. Marvel, A. A. Motsinger-Reif,
-and D. M. Reif, “Manual package ‘toxpir’,” 2024c. https://cran.r-project.
-org/web/packages/toxpiR/toxpiR.pdf, accessed on 2024-11-21.
-[46] A. Kassambara and F. Mundt, “factoextra : Extract and visualize the results
-of multivariate data analysesg,” 2020. https://cran.r-project.org/web/
-packages/factoextra/readme/README.html.
+[44] S. Marvel and D. M. Reif, “Toxpi™ user manual v2.3,” 2018. https://toxpi.org/dist/ToxPi%20User%20Manual.pdf, accessed on 2024-11-21.
+
+[45] J. Fleming, D. Filer, D. Lloyd, P. Thunga, S. W. Marvel, A. A. Motsinger-Reif, and D. M. Reif, “Manual package ‘toxpir’,” 2024c. https://cran.r-project.org/web/packages/toxpiR/toxpiR.pdf, accessed on 2024-11-21.
+
+[46] A. Kassambara and F. Mundt, “factoextra : Extract and visualize the results of multivariate data analysesg,” 2020. https://cran.r-project.org/web/packages/factoextra/readme/README.html.
+
 [47] J. R. Groff, P. N. Weinberg, and A. J. Oppel, SQL: The Complete Reference,
 Third Edition. McGraw-Hill, 2010.
 [48] S. Parth, “Understanding k-means and hierarchical clus-
