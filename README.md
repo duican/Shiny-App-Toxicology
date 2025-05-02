@@ -112,8 +112,7 @@ Electronics Society, pp. 2927–2934, 2018.
 [26] C. Abras, D. Maloney-Krichmar, and J. Preece, “User-centered design,” User-
 Centered Design, pp. 445–456, 01 2004.
 
-[27] International Organization for Standardization (ISO) and International Elec-
-trotechnical Commission (IEC), ISO/IEC 25023:2016 - Systems and software
+[27] International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC), ISO/IEC 25023:2016 - Systems and software
 engineering — Systems and software Quality Requirements and Evaluation
 (SQuaRE) — Measurement of system and software product quality, 2016. On-
 line at: https://www.iso.org/standard/35747.html.
