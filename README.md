@@ -105,8 +105,7 @@ age, version 2.3.9, https://cran.r-project.org/web/packages/RSQLite/index.html.
 D. Hoerl, and E. Miller, readxl: Read Excel Files, 2025. R package version
 1.4.5, https://cran.r-project.org/web/packages/readxl/index.html.
 
-[25] S. Karnouskos, R. Sinha, P. Leit˜ao, L. Ribeiro, and T. I. Strasser, “The appli-
-cability of iso/iec 25023 measures to the integration of agents and automation
+[25] S. Karnouskos, R. Sinha, P. Leit˜ao, L. Ribeiro, and T. I. Strasser, “The applicability of iso/iec 25023 measures to the integration of agents and automation
 systems,” in IECON 2018 - 44th Annual Conference of the IEEE Industrial
 Electronics Society, pp. 2927–2934, 2018.
 
