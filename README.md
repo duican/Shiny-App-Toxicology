@@ -36,7 +36,7 @@ no. 12, pp. 7448–7466, 2022.
 burg, P. Wittkowski, F. Padberg, K. Bech, et al., “Exploring the use of artificial
 intelligence (ai) for extracting and integrating data obtained through new ap-
 proach methodologies (nams) for chemical risk assessment,” EFSA Supporting
-Publications, vol. 21, no. 1, p. 8567E, 2024.
+Publications, vol. 21, no. 1, 2024.
 
 [7] J. F. Fleming, J. S. House, J. R. Chappel, A. A. Motsinger-Reif, and D. M.
 Reif, “Guided optimization of toxpi model weights using a semi-automated
