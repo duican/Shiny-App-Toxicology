@@ -179,5 +179,3 @@ Recognition with Language Models. published at: https://web.stanford.edu/~jurafs
 [52] “R shiny basics and user interface.” Statistical Learning Group, 2020. https://www.youtube.com/watch?v=6mJaw5pLtso.
 
 [53] Y. Dai and Y. Xiang, “Connecting sqlite database and shiny app for business intelligence,” 2020. https://shanghai.hosting.nyu.edu/data/r/case-3-sql-shiny.html, accessed on 2024-11-21.
-
-[54] B. Ripley, B. Venables, D. M. Bates, K. Hornik, A. Gebhardt, and D. Firth, MASS: Support Functions and Datasets for Venables and Ripley’s MASS, 2025. R package version 7.3-64. https://cran.r-project.org/web/packages/MASS/index.html.
