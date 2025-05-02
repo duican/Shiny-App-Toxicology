@@ -89,8 +89,7 @@ Feb 2021.
 [19] “Polycyclic aromatic compounds.” National Toxicology Program, U.S. Depart-
 ment of Health and Human Services, 2014. https://ntp.niehs.nih.gov/whatwestudy/topics/pacs, accessed on 2024-11-21.
 
-[20] O. C. Ifegwu and C. Anyakora, “Chapter six - polycyclic aromatic hydrocar-
-bons: Part i. exposure,” in Advances in Clinical Chemistry (G. S. Makowski,
+[20] O. C. Ifegwu and C. Anyakora, “Chapter six - polycyclic aromatic hydrocarbons: Part i. exposure,” in Advances in Clinical Chemistry (G. S. Makowski,
 ed.), vol. 72, pp. 277–304, Elsevier, 2015.
 
 [21] A. Schatten, M. Demolsky, D. Winkler, S. Biffl, E. Gostischa-Franta, and
