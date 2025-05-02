@@ -118,8 +118,7 @@ engineering — Systems and software Quality Requirements and Evaluation
 (SQuaRE) — Measurement of system and software product quality, 2016. On-
 line at: https://www.iso.org/standard/35747.html.
 
-[28] T. Galli, F. Chiclana, and F. Siewe, “Software product quality models, devel-
-opments, trends, and evaluation,” SN Computer Science, vol. 1, 05 2020.
+[28] T. Galli, F. Chiclana, and F. Siewe, “Software product quality models, developments, trends, and evaluation,” SN Computer Science, vol. 1, 05 2020.
 
 [29] M. J. Wurm, P. J. Rathouz, and B. M. Hanlon, “Regularized ordinal regression
 and the ordinalNet R package,” Journal of Statistical Software, vol. 99, no. 6,
