@@ -49,8 +49,7 @@ of Toxicology, vol. 98, no. 3, pp. 755–768, 2024.
 metabolomics method to predict high concentration cytotoxicity of drugs from
 low concentration profiles,” Metabolomics, vol. 8, pp. 433–443, 06 2011.
 
-[10] C. B. Pestana, J. W. Firman, and M. T. Cronin, “Incorporating lines of ev-
-idence from new approach methodologies (nams) to reduce uncertainties in a
+[10] C. B. Pestana, J. W. Firman, and M. T. Cronin, “Incorporating lines of evidence from new approach methodologies (nams) to reduce uncertainties in a
 category based read-across: a case study for repeated dose toxicity,” Regulatory
 Toxicology and Pharmacology, vol. 120, p. 104855, 2021.
 
