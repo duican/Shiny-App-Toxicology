@@ -53,7 +53,7 @@ shinyServer(function(input, output, session){
   dataset <- read_excel(way)
   }
   else {
-  warning(paste("No supported:", endi, "Change file name and try again."))
+  warning(paste("No supported:", endi, "Change file and try again."))
   next
   }
       
@@ -279,7 +279,7 @@ shinyServer(function(input, output, session){
   #polr model
   data_complete_logit_reg_up<- reactive({
     data_complete_logit_reg <- dbGetQuery(toxi_con, "select P1_index, P2_index, P3_index, P4_index, P5_index, P6_index, P7_index, Substance, Class, mg, Per1, Per2, Per3, Per4, Per5, Per6, Per7, P3_7_index,P4_7_index,P5_7_index,P1_2_index,Primary_PAH FROM '1994_House_SupTab4'")
-    # For this modelwe will have 4 slices
+    # For this model we will have 4 slices
     number_of_chart_parts_model2 = 4
     print(number_of_chart_parts_model2)
     
@@ -1056,6 +1056,7 @@ shinyServer(function(input, output, session){
 # the dashboard 100 times for each function to calculate the average time.
   
 # Calculation of the average time needed to run the function for chemical pies (chemcalpie_asfunction("UDAE")). 
+## When the dashboard opens go to Tab "Pie Plots" from "Toxicity Charts" and press "Show charts".
   #trials_chem_pie <- numeric(100)
   #observe({
   #for (k in 1:100){
@@ -1065,26 +1066,32 @@ shinyServer(function(input, output, session){
   #}
   
   #trial_avg <- mean(trials_chem_pie)
+  #print("Average time trials_chem_pie:")
   #print(trial_avg)
+  #print("Summary values trials_chem_pie:")
   #print(summary(trials_chem_pie))
   #})
   
-# Calculation of the average time needed to run the function for chemical substances boxplot.   
-  #trials_wtoxplot_asfunction <- numeric(100)
-  #observe({
-  #for (m in 1:100){
-  #trials_wtoxplot_asfunction[m] <- system.time({
-  #  wtoxplot_asfunction()
-  #})["elapsed"]
-  #}
+# Calculation of the average time needed to run the function for chemical substances boxplot.  
+# When the dashboard opens go to Tab "Correlations Values" from "Toxicity Charts" and press "Show results". 
+#  trials_wtoxplot_asfunction <- numeric(100)
+#  observe({
+#  for (m in 1:100){
+#  trials_wtoxplot_asfunction[m] <- system.time({
+#    wtoxplot_asfunction()
+#  })["elapsed"]
+#  }
   
-  #trial_avg2 <- mean(trials_wtoxplot_asfunction)
-  #print(trial_avg2)
-  #print(summary(trials_wtoxplot_asfunction))
-  #})
+#  trial_avg2 <- mean(trials_wtoxplot_asfunction)
+#  print("Average time trials_wtoxplot_asfunction:")
+#  print(trial_avg2)
+#  print("Summary values trials_wtoxplot_asfunction:")
+#  print(summary(trials_wtoxplot_asfunction))
+#  })
 
 # Calculation of the average time needed to run the function chemical_summary3_asfunction(). 
-#trials_chemical_summary3_asfunction <- numeric(100)
+# When the dashboard opens go to Tab "Correlations Values" from "Toxicity Charts" and press "Show results". 
+#  trials_chemical_summary3_asfunction <- numeric(100)
 #observe({
 #for (k in 1:100){
 # trials_chemical_summary3_asfunction[k] <- system.time({
@@ -1093,12 +1100,14 @@ shinyServer(function(input, output, session){
 #}
 
 #trial_avg <- mean(trials_chemical_summary3_asfunction)
+#print("Average time trials_chemical_summary3_asfunction:")
 #print(trial_avg)
-#print("Summary values:")
+#print("Summary values trials_chemical_summary3_asfunction:")
 #print(summary(trials_chemical_summary3_asfunction))
 #})
 
 #END
+  
 })
 
 # Shiny-App-Toxicology

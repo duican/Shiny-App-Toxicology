@@ -35,8 +35,8 @@ shinyUI(
       menuItem("Our Tox K-Means", tabName = "toxkmeans", icon = icon("home")),
       menuItem("Our Tox Hierarchical Clustering", tabName = "toxhierarchical", icon = icon("home")),
       menuItem("Our Tox Principal Component", tabName = "toxpca", icon = icon("home")),
-      menuItem("Toxicity Charts", tabName = "toxpi", icon = icon("home")),
-      menuItem("Upload Data", tabName = "upload", icon = icon("calendar"))
+      menuItem("Toxicity Charts", tabName = "toxpie", icon = icon("home")),
+      menuItem("Upload Chemical Data", tabName = "chemicalupload", icon = icon("calendar"))
     )),
     
     dashboardBody(
@@ -60,7 +60,7 @@ shinyUI(
                                                                                                                                                                      choices = c("rectangle", "circular", "phylogenic")))),
                 plotOutput('plot2'))
                ),
-        tabItem(tabName = "toxpi", h4("Toxicity Charts"),
+        tabItem(tabName = "toxpie", h4("Toxicity Charts"),
                 fluidRow(  column(
                   height = 12,
                   width = 12
@@ -124,7 +124,7 @@ shinyUI(
                          tabPanel("PCA variables", plotOutput('plot_5')))
                 )
         ),
-        tabItem(tabName = "upload",
+        tabItem(tabName = "chemicalupload",
                 fluidPage(
                   titlePanel("Upload your chemical data files"),
                   fileInput("chemical_files", "Select your needed files", 
